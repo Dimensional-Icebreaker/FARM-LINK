@@ -29,4 +29,4 @@ FarmLink is a web-based platform that bridges the gap between local farmers and 
 
 ---
 
-## Directory Structure
+
