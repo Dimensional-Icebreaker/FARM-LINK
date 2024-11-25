@@ -1,0 +1,138 @@
+[
+    {
+      "id": 1,
+      "title": "Fresh Tomatoes",
+      "price": 2.99,
+      "description": "A bunch of fresh, ripe tomatoes sourced from local farms.",
+      "category": "vegetables",
+      "image": "/assets/tomatoes.jpg",
+      "rating": { "rate": 4.7, "count": 120 }
+    },
+    {
+      "id": 2,
+      "title": "Sweet Apples",
+      "price": 3.49,
+      "description": "A collection of juicy and sweet apples, perfect for snacking.",
+      "category": "fruits",
+      "image": "/assets/apple.jpg",
+      "rating": { "rate": 4.8, "count": 95 }
+    },
+    {
+      "id": 3,
+      "title": "Organic Bananas",
+      "price": 1.99,
+      "description": "A bunch of organic bananas grown without chemicals.",
+      "category": "fruits",
+      "image": "/assets/bananas.jpg",
+      "rating": { "rate": 4.6, "count": 1 }
+    },
+    {
+      "id": 4,
+      "title": "Baby Spinach",
+      "price": 2.49,
+      "description": "Fresh baby spinach leaves bundled together, perfect for salads.",
+      "category": "vegetables",
+      "image": "/assets/baby_spinach.jpg",
+      "rating": { "rate": 4.5, "count": 78 }
+    },
+    {
+      "id": 5,
+      "title": "Whole Milk",
+      "price": 4.49,
+      "description": "Rich and creamy whole milk sourced from grass-fed cows.",
+      "category": "dairy",
+      "image": "/assets/milk.jpg",
+      "rating": { "rate": 4.9, "count": 200 }
+    },
+    {
+      "id": 6,
+      "title": "Brown Eggs",
+      "price": 3.99,
+      "description": "Farm fresh brown eggs, sold in dozens.",
+      "category": "dairy",
+      "image": "/assets/eggs.jpg",
+      "rating": { "rate": 4.7, "count": 150 }
+    },
+    {
+      "id": 7,
+      "title": "Whole Wheat Bread",
+      "price": 3.29,
+      "description": "Freshly baked whole wheat bread, sold in loaves.",
+      "category": "grains",
+      "image": "/assets/whole_wheat_bread.jpg",
+      "rating": { "rate": 4.6, "count": 110 }
+    },
+    {
+      "id": 8,
+      "title": "Jasmine Rice",
+      "price": 10.99,
+      "description": "Premium quality jasmine rice, sold in bulk.",
+      "category": "grains",
+      "image": "/assets/rice.jpg",
+      "rating": { "rate": 4.8, "count": 90 }
+    },
+    {
+      "id": 9,
+      "title": "Raw Honey",
+      "price": 7.99,
+      "description": "Natural raw honey, available in jars.",
+      "category": "pantry",
+      "image": "/assets/raw_honey.jpg",
+      "rating": { "rate": 4.9, "count": 125 }
+    },
+    {
+      "id": 10,
+      "title": "Red Grapes",
+      "price": 4.49,
+      "description": "Bunches of seedless red grapes, fresh and juicy.",
+      "category": "fruits",
+      "image": "/assets/red_grapes.jpg",
+      "rating": { "rate": 4.7, "count": 130 }
+    },
+    {
+      "id": 11,
+      "title": "Carrots",
+      "price": 2.79,
+      "description": "Bunches of fresh and crunchy carrots.",
+      "category": "vegetables",
+      "image": "/assets/carrots.jpg",
+      "rating": { "rate": 4.5, "count": 100 }
+    },
+    {
+      "id": 12,
+      "title": "Cheddar Cheese",
+      "price": 5.99,
+      "description": "Blocks of aged cheddar cheese with a rich flavor.",
+      "category": "dairy",
+      "image": "/assets/cheddar_cheese.jpg",
+      "rating": { "rate": 4.8, "count": 190 }
+    },
+    {
+      "id": 13,
+      "title": "Oats",
+      "price": 3.49,
+      "description": "Packs of gluten-free oats, perfect for breakfast.",
+      "category": "grains",
+      "image": "/assets/oats.jpg",
+      "rating": { "rate": 4.7, "count": 150 }
+    },
+    {
+      "id": 14,
+      "title": "Avocados",
+      "price": 1.49,
+      "description": "A bunch of creamy and delicious avocados.",
+      "category": "fruits",
+      "image": "/assets/avocado.jpg",
+      "rating": { "rate": 4.9, "count": 180 }
+    },
+    {
+      "id": 15,
+      "title": "Bell Peppers",
+      "price": 3.99,
+      "description": "Mixed packs of bell peppers: red, yellow, and green.",
+      "category": "vegetables",
+      "image": "/assets/bell_pepper.jpg",
+      "rating": { "rate": 4.6, "count": 100 }
+    }
+  ]
+  
