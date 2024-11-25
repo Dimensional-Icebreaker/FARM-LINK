@@ -40,11 +40,11 @@ FarmLink is a web-based platform that bridges the gap between local farmers and 
        or
   ```bash
     yarn install
-  bash
-4. **Start the Development Server**:  
-   Start the React development server using npm or yarn:  
-   ```bash
+```
+4. **Start the Development Server**:  Start the React development server using npm or yarn:  
+  ```bash
    npm start
+```
 5. View the Application:
     Open your browser and go to:
         http://localhost:3000
