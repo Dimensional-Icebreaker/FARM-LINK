@@ -41,7 +41,7 @@ const Home = () => {
                   maxWidth: "600px", // Restricts the width of the paragraph to a readable size
                 }}
               >
-                From Farm 👩🏻‍🌾 to your Table 🧺 Fresh and Organic Produce.
+                From Farm to your Table - Fresh and Organic Produce.
               </p>
             </div>
           </div>
